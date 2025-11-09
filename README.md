@@ -1,10 +1,4 @@
-# 🎨 README משודרג ומקצועי - גרסה מלאה
-
-דוד, הנה ה-README המושלם שלך! **מוכן להעתקה ישירה:**
-
-***
-
-## 📝 **README.md - גרסה מקצועית:**
+## 📝 **README.md**
 
 ```markdown
 # 🤖 Local RAG System - Private AI Memory
