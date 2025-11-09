@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./images/brain-cover.png" alt="Local RAG System" width="100%"/>
+</div>
+
 ## 📝 **README.md**
 
 ```markdown
@@ -200,6 +204,12 @@ python scripts/rag_main.py
 │    (Context-aware answer from your knowledge)            │
 └─────────────────────────────────────────────────────────┘
 ```
+## 📊 System Architecture
+
+<div align="center">
+  <img src="./images/system-architecture.png" alt="RAG System Architecture" width="700"/>
+</div>
+
 
 ---
 
