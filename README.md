@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿#  Local RAG System - Private AI Memory
 
 **Building a Private, Local RAG (Retrieval-Augmented Generation) System**
@@ -21,3 +22,7 @@ Full documentation coming soon!
 ---
 
 **Built with  by David Zarko**
+=======
+# local-rag-system
+Building Private AI Memory with Ollama, LangChain &amp; Chroma
+>>>>>>> 44534e48054d791ccba6d00fa3ef01500aac0efa
